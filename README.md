@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 👋
+
+- 🔭 I’m currently working on my AWS and Linux skills
+- 🌱 I’m currently learning DevOps
 
 <!--
 **adamp-github/adamp-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
